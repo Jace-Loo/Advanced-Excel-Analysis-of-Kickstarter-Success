@@ -1,1 +1,0 @@
-# Advanced-Excel-Analysis-of-Kickstarter-Success
